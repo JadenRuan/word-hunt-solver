@@ -1,1 +1,1 @@
-# word-hunt-solver
+# Word Hunte Solver
